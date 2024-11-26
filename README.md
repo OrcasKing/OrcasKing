@@ -8,7 +8,7 @@ I am learning computer science at the University of Technologies in Vienna, whil
 
 * 🌍  I'm based in Vienna
 * ✉️  You can contact me at [bencerowing@gmail.com](mailto:bencerowing@gmail.com)
-* 🧠  I'm learning Java, Python, SQL
+* 🧠  I'm learning Java, Python, SQL and C
 * 🤝  I'm open to collaborating on Basically everything
 * ⚡  I'm ex-pro in rowing and love all kind of fun facts
 
